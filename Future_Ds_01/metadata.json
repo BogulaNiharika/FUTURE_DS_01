@@ -1,0 +1,6 @@
+{
+  "name": "Sales Analytics Dashboard Academy",
+  "description": "An executive-grade Business Sales Performance Analytics Dashboard and portfolio-ready mentorship guide based on the Superstore Sales dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
